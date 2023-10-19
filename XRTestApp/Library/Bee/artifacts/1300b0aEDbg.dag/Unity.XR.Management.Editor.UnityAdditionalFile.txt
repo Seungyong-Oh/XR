@@ -1,1 +1,1 @@
-/Users/jimmyoh/UnityProjrct/XR/XRTestApp
+/Users/jimmyoh/UnityProject/XR/XRTestApp

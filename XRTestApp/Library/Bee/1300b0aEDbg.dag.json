@@ -548,7 +548,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 110,
       "PayloadLength": 40,
-      "PayloadDebugContentSnippet": "/Users/jimmyoh/UnityProjrct/XR",
+      "PayloadDebugContentSnippet": "/Users/jimmyoh/UnityProject/XR",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1300b0aEDbg.dag/UnityEngine.TestRunner.UnityAdditionalFile.txt"
@@ -2762,7 +2762,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 53892,
       "PayloadLength": 40,
-      "PayloadDebugContentSnippet": "/Users/jimmyoh/UnityProjrct/XR",
+      "PayloadDebugContentSnippet": "/Users/jimmyoh/UnityProject/XR",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1300b0aEDbg.dag/UnityEngine.UI.UnityAdditionalFile.txt"
@@ -3457,7 +3457,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 102718,
       "PayloadLength": 40,
-      "PayloadDebugContentSnippet": "/Users/jimmyoh/UnityProjrct/XR",
+      "PayloadDebugContentSnippet": "/Users/jimmyoh/UnityProject/XR",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1300b0aEDbg.dag/UnityEditor.TestRunner.UnityAdditionalFile.txt"
@@ -4217,7 +4217,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 163377,
       "PayloadLength": 40,
-      "PayloadDebugContentSnippet": "/Users/jimmyoh/UnityProjrct/XR",
+      "PayloadDebugContentSnippet": "/Users/jimmyoh/UnityProject/XR",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1300b0aEDbg.dag/UnityEditor.UI.UnityAdditionalFile.txt"
@@ -4838,7 +4838,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 210333,
       "PayloadLength": 40,
-      "PayloadDebugContentSnippet": "/Users/jimmyoh/UnityProjrct/XR",
+      "PayloadDebugContentSnippet": "/Users/jimmyoh/UnityProject/XR",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1300b0aEDbg.dag/Unity.EditorCoroutines.Editor.UnityAdditionalFile.txt"
@@ -5412,7 +5412,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 254854,
       "PayloadLength": 40,
-      "PayloadDebugContentSnippet": "/Users/jimmyoh/UnityProjrct/XR",
+      "PayloadDebugContentSnippet": "/Users/jimmyoh/UnityProject/XR",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1300b0aEDbg.dag/Unity.InputSystem.UnityAdditionalFile.txt"
@@ -6311,7 +6311,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 334045,
       "PayloadLength": 40,
-      "PayloadDebugContentSnippet": "/Users/jimmyoh/UnityProjrct/XR",
+      "PayloadDebugContentSnippet": "/Users/jimmyoh/UnityProject/XR",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1300b0aEDbg.dag/Unity.Mathematics.UnityAdditionalFile.txt"
@@ -6928,7 +6928,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 383587,
       "PayloadLength": 40,
-      "PayloadDebugContentSnippet": "/Users/jimmyoh/UnityProjrct/XR",
+      "PayloadDebugContentSnippet": "/Users/jimmyoh/UnityProject/XR",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1300b0aEDbg.dag/Unity.Performance.Profile-Analyzer.Editor.UnityAdditionalFile.txt"
@@ -7513,7 +7513,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 430894,
       "PayloadLength": 40,
-      "PayloadDebugContentSnippet": "/Users/jimmyoh/UnityProjrct/XR",
+      "PayloadDebugContentSnippet": "/Users/jimmyoh/UnityProject/XR",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1300b0aEDbg.dag/Unity.PlasticSCM.Editor.UnityAdditionalFile.txt"
@@ -8339,7 +8339,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 504643,
       "PayloadLength": 40,
-      "PayloadDebugContentSnippet": "/Users/jimmyoh/UnityProjrct/XR",
+      "PayloadDebugContentSnippet": "/Users/jimmyoh/UnityProject/XR",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1300b0aEDbg.dag/Unity.Rider.Editor.UnityAdditionalFile.txt"
@@ -8909,7 +8909,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 550772,
       "PayloadLength": 40,
-      "PayloadDebugContentSnippet": "/Users/jimmyoh/UnityProjrct/XR",
+      "PayloadDebugContentSnippet": "/Users/jimmyoh/UnityProject/XR",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1300b0aEDbg.dag/Unity.Settings.Editor.UnityAdditionalFile.txt"
@@ -9474,7 +9474,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 596010,
       "PayloadLength": 40,
-      "PayloadDebugContentSnippet": "/Users/jimmyoh/UnityProjrct/XR",
+      "PayloadDebugContentSnippet": "/Users/jimmyoh/UnityProject/XR",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1300b0aEDbg.dag/Unity.TestTools.CodeCoverage.Editor.OpenCover.Model.UnityAdditionalFile.txt"
@@ -10041,7 +10041,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 642107,
       "PayloadLength": 40,
-      "PayloadDebugContentSnippet": "/Users/jimmyoh/UnityProjrct/XR",
+      "PayloadDebugContentSnippet": "/Users/jimmyoh/UnityProject/XR",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1300b0aEDbg.dag/Unity.TestTools.CodeCoverage.Editor.OpenCover.Mono.Reflection.UnityAdditionalFile.txt"
@@ -10597,7 +10597,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 686974,
       "PayloadLength": 40,
-      "PayloadDebugContentSnippet": "/Users/jimmyoh/UnityProjrct/XR",
+      "PayloadDebugContentSnippet": "/Users/jimmyoh/UnityProject/XR",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1300b0aEDbg.dag/Unity.TextMeshPro.UnityAdditionalFile.txt"
@@ -11184,7 +11184,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 734074,
       "PayloadLength": 40,
-      "PayloadDebugContentSnippet": "/Users/jimmyoh/UnityProjrct/XR",
+      "PayloadDebugContentSnippet": "/Users/jimmyoh/UnityProject/XR",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1300b0aEDbg.dag/Unity.Timeline.UnityAdditionalFile.txt"
@@ -11785,7 +11785,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 782239,
       "PayloadLength": 40,
-      "PayloadDebugContentSnippet": "/Users/jimmyoh/UnityProjrct/XR",
+      "PayloadDebugContentSnippet": "/Users/jimmyoh/UnityProject/XR",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1300b0aEDbg.dag/Unity.VSCode.Editor.UnityAdditionalFile.txt"
@@ -12345,7 +12345,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 827098,
       "PayloadLength": 40,
-      "PayloadDebugContentSnippet": "/Users/jimmyoh/UnityProjrct/XR",
+      "PayloadDebugContentSnippet": "/Users/jimmyoh/UnityProject/XR",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1300b0aEDbg.dag/Unity.VisualStudio.Editor.UnityAdditionalFile.txt"
@@ -12916,7 +12916,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 873123,
       "PayloadLength": 40,
-      "PayloadDebugContentSnippet": "/Users/jimmyoh/UnityProjrct/XR",
+      "PayloadDebugContentSnippet": "/Users/jimmyoh/UnityProject/XR",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1300b0aEDbg.dag/Unity.XR.Management.UnityAdditionalFile.txt"
@@ -13451,7 +13451,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 915662,
       "PayloadLength": 40,
-      "PayloadDebugContentSnippet": "/Users/jimmyoh/UnityProjrct/XR",
+      "PayloadDebugContentSnippet": "/Users/jimmyoh/UnityProject/XR",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1300b0aEDbg.dag/UnityEngine.SpatialTracking.UnityAdditionalFile.txt"
@@ -13982,7 +13982,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 957976,
       "PayloadLength": 40,
-      "PayloadDebugContentSnippet": "/Users/jimmyoh/UnityProjrct/XR",
+      "PayloadDebugContentSnippet": "/Users/jimmyoh/UnityProject/XR",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1300b0aEDbg.dag/Unity.CollabProxy.Editor.UnityAdditionalFile.txt"
@@ -14557,7 +14557,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 1002372,
       "PayloadLength": 40,
-      "PayloadDebugContentSnippet": "/Users/jimmyoh/UnityProjrct/XR",
+      "PayloadDebugContentSnippet": "/Users/jimmyoh/UnityProject/XR",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1300b0aEDbg.dag/Unity.InputSystem.ForUI.UnityAdditionalFile.txt"
@@ -15109,7 +15109,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 1044698,
       "PayloadLength": 40,
-      "PayloadDebugContentSnippet": "/Users/jimmyoh/UnityProjrct/XR",
+      "PayloadDebugContentSnippet": "/Users/jimmyoh/UnityProject/XR",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1300b0aEDbg.dag/Unity.InputSystem.TestFramework.UnityAdditionalFile.txt"
@@ -15618,7 +15618,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 1085024,
       "PayloadLength": 40,
-      "PayloadDebugContentSnippet": "/Users/jimmyoh/UnityProjrct/XR",
+      "PayloadDebugContentSnippet": "/Users/jimmyoh/UnityProject/XR",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1300b0aEDbg.dag/Unity.Mathematics.Editor.UnityAdditionalFile.txt"
@@ -16196,7 +16196,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 1129728,
       "PayloadLength": 40,
-      "PayloadDebugContentSnippet": "/Users/jimmyoh/UnityProjrct/XR",
+      "PayloadDebugContentSnippet": "/Users/jimmyoh/UnityProject/XR",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1300b0aEDbg.dag/Unity.TestTools.CodeCoverage.Editor.UnityAdditionalFile.txt"
@@ -16843,7 +16843,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 1178067,
       "PayloadLength": 40,
-      "PayloadDebugContentSnippet": "/Users/jimmyoh/UnityProjrct/XR",
+      "PayloadDebugContentSnippet": "/Users/jimmyoh/UnityProject/XR",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1300b0aEDbg.dag/Unity.TextMeshPro.Editor.UnityAdditionalFile.txt"
@@ -17465,7 +17465,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 1226772,
       "PayloadLength": 40,
-      "PayloadDebugContentSnippet": "/Users/jimmyoh/UnityProjrct/XR",
+      "PayloadDebugContentSnippet": "/Users/jimmyoh/UnityProject/XR",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1300b0aEDbg.dag/Unity.Timeline.Editor.UnityAdditionalFile.txt"
@@ -18311,7 +18311,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 1295085,
       "PayloadLength": 40,
-      "PayloadDebugContentSnippet": "/Users/jimmyoh/UnityProjrct/XR",
+      "PayloadDebugContentSnippet": "/Users/jimmyoh/UnityProject/XR",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1300b0aEDbg.dag/Unity.VisualScripting.Core.UnityAdditionalFile.txt"
@@ -19271,7 +19271,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 1390884,
       "PayloadLength": 40,
-      "PayloadDebugContentSnippet": "/Users/jimmyoh/UnityProjrct/XR",
+      "PayloadDebugContentSnippet": "/Users/jimmyoh/UnityProject/XR",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1300b0aEDbg.dag/Unity.XR.CoreUtils.UnityAdditionalFile.txt"
@@ -19896,7 +19896,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 1439590,
       "PayloadLength": 40,
-      "PayloadDebugContentSnippet": "/Users/jimmyoh/UnityProjrct/XR",
+      "PayloadDebugContentSnippet": "/Users/jimmyoh/UnityProject/XR",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1300b0aEDbg.dag/Unity.XR.Management.Editor.UnityAdditionalFile.txt"
@@ -20503,7 +20503,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 1486825,
       "PayloadLength": 40,
-      "PayloadDebugContentSnippet": "/Users/jimmyoh/UnityProjrct/XR",
+      "PayloadDebugContentSnippet": "/Users/jimmyoh/UnityProject/XR",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1300b0aEDbg.dag/Unity.XR.Oculus.UnityAdditionalFile.txt"
@@ -21054,7 +21054,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 1530215,
       "PayloadLength": 40,
-      "PayloadDebugContentSnippet": "/Users/jimmyoh/UnityProjrct/XR",
+      "PayloadDebugContentSnippet": "/Users/jimmyoh/UnityProject/XR",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1300b0aEDbg.dag/UnityEditor.SpatialTracking.UnityAdditionalFile.txt"
@@ -21612,7 +21612,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 1574803,
       "PayloadLength": 40,
-      "PayloadDebugContentSnippet": "/Users/jimmyoh/UnityProjrct/XR",
+      "PayloadDebugContentSnippet": "/Users/jimmyoh/UnityProject/XR",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1300b0aEDbg.dag/UnityEngine.XR.LegacyInputHelpers.UnityAdditionalFile.txt"
@@ -22148,7 +22148,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 1617385,
       "PayloadLength": 40,
-      "PayloadDebugContentSnippet": "/Users/jimmyoh/UnityProjrct/XR",
+      "PayloadDebugContentSnippet": "/Users/jimmyoh/UnityProject/XR",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1300b0aEDbg.dag/Unity.VisualScripting.Core.Editor.UnityAdditionalFile.txt"
@@ -23192,7 +23192,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 1718214,
       "PayloadLength": 40,
-      "PayloadDebugContentSnippet": "/Users/jimmyoh/UnityProjrct/XR",
+      "PayloadDebugContentSnippet": "/Users/jimmyoh/UnityProject/XR",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1300b0aEDbg.dag/Unity.VisualScripting.Flow.UnityAdditionalFile.txt"
@@ -24130,7 +24130,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 1809543,
       "PayloadLength": 40,
-      "PayloadDebugContentSnippet": "/Users/jimmyoh/UnityProjrct/XR",
+      "PayloadDebugContentSnippet": "/Users/jimmyoh/UnityProject/XR",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1300b0aEDbg.dag/Unity.XR.CoreUtils.Editor.UnityAdditionalFile.txt"
@@ -24729,7 +24729,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 1855999,
       "PayloadLength": 40,
-      "PayloadDebugContentSnippet": "/Users/jimmyoh/UnityProjrct/XR",
+      "PayloadDebugContentSnippet": "/Users/jimmyoh/UnityProject/XR",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1300b0aEDbg.dag/Unity.XR.Interaction.Toolkit.UnityAdditionalFile.txt"
@@ -25580,7 +25580,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 1932069,
       "PayloadLength": 40,
-      "PayloadDebugContentSnippet": "/Users/jimmyoh/UnityProjrct/XR",
+      "PayloadDebugContentSnippet": "/Users/jimmyoh/UnityProject/XR",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1300b0aEDbg.dag/Unity.XR.Oculus.Editor.UnityAdditionalFile.txt"
@@ -26183,7 +26183,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 1976926,
       "PayloadLength": 40,
-      "PayloadDebugContentSnippet": "/Users/jimmyoh/UnityProjrct/XR",
+      "PayloadDebugContentSnippet": "/Users/jimmyoh/UnityProject/XR",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1300b0aEDbg.dag/UnityEditor.XR.LegacyInputHelpers.UnityAdditionalFile.txt"
@@ -26753,7 +26753,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 2022256,
       "PayloadLength": 40,
-      "PayloadDebugContentSnippet": "/Users/jimmyoh/UnityProjrct/XR",
+      "PayloadDebugContentSnippet": "/Users/jimmyoh/UnityProject/XR",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1300b0aEDbg.dag/Unity.VisualScripting.Flow.Editor.UnityAdditionalFile.txt"
@@ -27526,7 +27526,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 2087365,
       "PayloadLength": 40,
-      "PayloadDebugContentSnippet": "/Users/jimmyoh/UnityProjrct/XR",
+      "PayloadDebugContentSnippet": "/Users/jimmyoh/UnityProject/XR",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1300b0aEDbg.dag/Unity.VisualScripting.State.UnityAdditionalFile.txt"
@@ -28093,7 +28093,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 2132942,
       "PayloadLength": 40,
-      "PayloadDebugContentSnippet": "/Users/jimmyoh/UnityProjrct/XR",
+      "PayloadDebugContentSnippet": "/Users/jimmyoh/UnityProject/XR",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1300b0aEDbg.dag/Unity.XR.Interaction.Toolkit.Editor.UnityAdditionalFile.txt"
@@ -28778,7 +28778,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 2187074,
       "PayloadLength": 40,
-      "PayloadDebugContentSnippet": "/Users/jimmyoh/UnityProjrct/XR",
+      "PayloadDebugContentSnippet": "/Users/jimmyoh/UnityProject/XR",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1300b0aEDbg.dag/Unity.XR.Interaction.Toolkit.Samples.DeviceSimulator.UnityAdditionalFile.txt"
@@ -29320,7 +29320,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 2229954,
       "PayloadLength": 40,
-      "PayloadDebugContentSnippet": "/Users/jimmyoh/UnityProjrct/XR",
+      "PayloadDebugContentSnippet": "/Users/jimmyoh/UnityProject/XR",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1300b0aEDbg.dag/Unity.XR.Interaction.Toolkit.Samples.StarterAssets.UnityAdditionalFile.txt"
@@ -29870,7 +29870,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 2273309,
       "PayloadLength": 40,
-      "PayloadDebugContentSnippet": "/Users/jimmyoh/UnityProjrct/XR",
+      "PayloadDebugContentSnippet": "/Users/jimmyoh/UnityProject/XR",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1300b0aEDbg.dag/Unity.VisualScripting.SettingsProvider.Editor.UnityAdditionalFile.txt"
@@ -30488,7 +30488,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 2319620,
       "PayloadLength": 40,
-      "PayloadDebugContentSnippet": "/Users/jimmyoh/UnityProjrct/XR",
+      "PayloadDebugContentSnippet": "/Users/jimmyoh/UnityProject/XR",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1300b0aEDbg.dag/Unity.VisualScripting.State.Editor.UnityAdditionalFile.txt"
@@ -31128,7 +31128,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 2372690,
       "PayloadLength": 40,
-      "PayloadDebugContentSnippet": "/Users/jimmyoh/UnityProjrct/XR",
+      "PayloadDebugContentSnippet": "/Users/jimmyoh/UnityProject/XR",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1300b0aEDbg.dag/Unity.XR.Interaction.Toolkit.Samples.StarterAssets.Editor.UnityAdditionalFile.txt"
@@ -31714,7 +31714,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 2417762,
       "PayloadLength": 40,
-      "PayloadDebugContentSnippet": "/Users/jimmyoh/UnityProjrct/XR",
+      "PayloadDebugContentSnippet": "/Users/jimmyoh/UnityProject/XR",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1300b0aEDbg.dag/Unity.VisualScripting.Shared.Editor.UnityAdditionalFile.txt"
@@ -32309,7 +32309,7 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 2463103,
       "PayloadLength": 40,
-      "PayloadDebugContentSnippet": "/Users/jimmyoh/UnityProjrct/XR",
+      "PayloadDebugContentSnippet": "/Users/jimmyoh/UnityProject/XR",
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1300b0aEDbg.dag/Assembly-CSharp.UnityAdditionalFile.txt"
@@ -34727,7 +34727,7 @@
     {
       "Annotation": "BuildPlayerDataGenerator Library/BuildPlayerData/Editor/TypeDb-All.json",
       "DisplayName": "BuildPlayerDataGenerator TypeDb-All",
-      "Action": "\"/Applications/Unity/Hub/Editor/2022.3.9f1/Unity.app/Contents/Tools/netcorerun/netcorerun\" \"/Applications/Unity/Hub/Editor/2022.3.9f1/Unity.app/Contents/Tools/BuildPlayerDataGenerator/BuildPlayerDataGenerator.exe\" -a=\"/Users/jimmyoh/UnityProjrct/XR/XRTestApp/Library/ScriptAssemblies/Assembly-CSharp.dll\" -a=\"/Users/jimmyoh/UnityProjrct/XR/XRTestApp/Library/ScriptAssemblies/Unity.InputSystem.dll\" -a=\"/Users/jimmyoh/UnityProjrct/XR/XRTestApp/Library/ScriptAssemblies/Unity.InputSystem.ForUI.dll\" -a=\"/Users/jimmyoh/UnityProjrct/XR/XRTestApp/Library/ScriptAssemblies/Unity.InputSystem.TestFramework.dll\" -a=\"/Users/jimmyoh/UnityProjrct/XR/XRTestApp/Library/ScriptAssemblies/Unity.Mathematics.dll\" -a=\"/Users/jimmyoh/UnityProjrct/XR/XRTestApp/Library/ScriptAssemblies/Unity.TextMeshPro.dll\" -a=\"/Users/jimmyoh/UnityProjrct/XR/XRTestApp/Library/ScriptAssemblies/Unity.Timeline.dll\" -a=\"/Users/jimmyoh/UnityProjrct/XR/XRTestApp/Library/ScriptAssemblies/Unity.VisualScripting.Core.dll\" -a=\"/Users/jimmyoh/UnityProjrct/XR/XRTestApp/Library/ScriptAssemblies/Unity.VisualScripting.Flow.dll\" -a=\"/Users/jimmyoh/UnityProjrct/XR/XRTestApp/Library/ScriptAssemblies/Unity.VisualScripting.State.dll\" -a=\"/Users/jimmyoh/UnityProjrct/XR/XRTestApp/Library/ScriptAssemblies/Unity.XR.CoreUtils.dll\" -a=\"/Users/jimmyoh/UnityProjrct/XR/XRTestApp/Library/ScriptAssemblies/Unity.XR.Interaction.Toolkit.dll\" -a=\"/Users/jimmyoh/UnityProjrct/XR/XRTestApp/Library/ScriptAssemblies/Unity.XR.Interaction.Toolkit.Samples.DeviceSimulator.dll\" -a=\"/Users/jimmyoh/UnityProjrct/XR/XRTestApp/Library/ScriptAssemblies/Unity.XR.Interaction.Toolkit.Samples.StarterAssets.dll\" -a=\"/Users/jimmyoh/UnityProjrct/XR/XRTestApp/Library/ScriptAssemblies/Unity.XR.Management.dll\" -a=\"/Users/jimmyoh/UnityProjrct/XR/XRTestApp/Library/ScriptAssemblies/Unity.XR.Oculus.dll\" -a=\"/Users/jimmyoh/UnityProjrct/XR/XRTestApp/Library/ScriptAssemblies/UnityEngine.SpatialTracking.dll\" -a=\"/Users/jimmyoh/UnityProjrct/XR/XRTestApp/Library/ScriptAssemblies/UnityEngine.TestRunner.dll\" -a=\"/Users/jimmyoh/UnityProjrct/XR/XRTestApp/Library/ScriptAssemblies/UnityEngine.UI.dll\" -a=\"/Users/jimmyoh/UnityProjrct/XR/XRTestApp/Library/ScriptAssemblies/UnityEngine.XR.LegacyInputHelpers.dll\" -a=\"/Users/jimmyoh/UnityProjrct/XR/XRTestApp/Library/PackageCache/com.unity.ext.nunit@1.0.6/net35/unity-custom/nunit.framework.dll\" -a=\"/Users/jimmyoh/UnityProjrct/XR/XRTestApp/Library/PackageCache/com.unity.testtools.codecoverage@1.2.4/lib/ReportGenerator/ReportGeneratorMerged.dll\" -a=\"/Users/jimmyoh/UnityProjrct/XR/XRTestApp/Library/PackageCache/com.unity.visualscripting@1.9.0/Runtime/VisualScripting.Flow/Dependencies/NCalc/Unity.VisualScripting.Antlr3.Runtime.dll\" -s=\"/Applications/Unity/Hub/Editor/2022.3.9f1/Unity.app/Contents/Managed/UnityEngine\" -s=\"/Applications/Unity/Hub/Editor/2022.3.9f1/Unity.app/Contents/NetStandard/compat/2.1.0/shims/netfx\" -s=\"/Applications/Unity/Hub/Editor/2022.3.9f1/Unity.app/Contents/NetStandard/compat/2.1.0/shims/netstandard\" -s=\"/Applications/Unity/Hub/Editor/2022.3.9f1/Unity.app/Contents/NetStandard/Extensions/2.0.0\" -s=\"/Applications/Unity/Hub/Editor/2022.3.9f1/Unity.app/Contents/NetStandard/ref/2.1.0\" -s=\"/Users/jimmyoh/UnityProjrct/XR/XRTestApp/Library/ScriptAssemblies\" -s=\"/Users/jimmyoh/UnityProjrct/XR/XRTestApp/Library/PackageCache/com.unity.ext.nunit@1.0.6/net35/unity-custom\" -s=\"/Users/jimmyoh/UnityProjrct/XR/XRTestApp/Library/PackageCache/com.unity.testtools.codecoverage@1.2.4/lib/ReportGenerator\" -s=\"/Users/jimmyoh/UnityProjrct/XR/XRTestApp/Library/PackageCache/com.unity.visualscripting@1.9.0/Runtime/VisualScripting.Flow/Dependencies/NCalc\" -o=\"Library/BuildPlayerData/Editor\" -rn=\"\" -tn=\"TypeDb-All.json\"",
+      "Action": "\"/Applications/Unity/Hub/Editor/2022.3.9f1/Unity.app/Contents/Tools/netcorerun/netcorerun\" \"/Applications/Unity/Hub/Editor/2022.3.9f1/Unity.app/Contents/Tools/BuildPlayerDataGenerator/BuildPlayerDataGenerator.exe\" -a=\"/Users/jimmyoh/UnityProject/XR/XRTestApp/Library/ScriptAssemblies/Assembly-CSharp.dll\" -a=\"/Users/jimmyoh/UnityProject/XR/XRTestApp/Library/ScriptAssemblies/Unity.InputSystem.dll\" -a=\"/Users/jimmyoh/UnityProject/XR/XRTestApp/Library/ScriptAssemblies/Unity.InputSystem.ForUI.dll\" -a=\"/Users/jimmyoh/UnityProject/XR/XRTestApp/Library/ScriptAssemblies/Unity.InputSystem.TestFramework.dll\" -a=\"/Users/jimmyoh/UnityProject/XR/XRTestApp/Library/ScriptAssemblies/Unity.Mathematics.dll\" -a=\"/Users/jimmyoh/UnityProject/XR/XRTestApp/Library/ScriptAssemblies/Unity.TextMeshPro.dll\" -a=\"/Users/jimmyoh/UnityProject/XR/XRTestApp/Library/ScriptAssemblies/Unity.Timeline.dll\" -a=\"/Users/jimmyoh/UnityProject/XR/XRTestApp/Library/ScriptAssemblies/Unity.VisualScripting.Core.dll\" -a=\"/Users/jimmyoh/UnityProject/XR/XRTestApp/Library/ScriptAssemblies/Unity.VisualScripting.Flow.dll\" -a=\"/Users/jimmyoh/UnityProject/XR/XRTestApp/Library/ScriptAssemblies/Unity.VisualScripting.State.dll\" -a=\"/Users/jimmyoh/UnityProject/XR/XRTestApp/Library/ScriptAssemblies/Unity.XR.CoreUtils.dll\" -a=\"/Users/jimmyoh/UnityProject/XR/XRTestApp/Library/ScriptAssemblies/Unity.XR.Interaction.Toolkit.dll\" -a=\"/Users/jimmyoh/UnityProject/XR/XRTestApp/Library/ScriptAssemblies/Unity.XR.Interaction.Toolkit.Samples.DeviceSimulator.dll\" -a=\"/Users/jimmyoh/UnityProject/XR/XRTestApp/Library/ScriptAssemblies/Unity.XR.Interaction.Toolkit.Samples.StarterAssets.dll\" -a=\"/Users/jimmyoh/UnityProject/XR/XRTestApp/Library/ScriptAssemblies/Unity.XR.Management.dll\" -a=\"/Users/jimmyoh/UnityProject/XR/XRTestApp/Library/ScriptAssemblies/Unity.XR.Oculus.dll\" -a=\"/Users/jimmyoh/UnityProject/XR/XRTestApp/Library/ScriptAssemblies/UnityEngine.SpatialTracking.dll\" -a=\"/Users/jimmyoh/UnityProject/XR/XRTestApp/Library/ScriptAssemblies/UnityEngine.TestRunner.dll\" -a=\"/Users/jimmyoh/UnityProject/XR/XRTestApp/Library/ScriptAssemblies/UnityEngine.UI.dll\" -a=\"/Users/jimmyoh/UnityProject/XR/XRTestApp/Library/ScriptAssemblies/UnityEngine.XR.LegacyInputHelpers.dll\" -a=\"/Users/jimmyoh/UnityProject/XR/XRTestApp/Library/PackageCache/com.unity.ext.nunit@1.0.6/net35/unity-custom/nunit.framework.dll\" -a=\"/Users/jimmyoh/UnityProject/XR/XRTestApp/Library/PackageCache/com.unity.testtools.codecoverage@1.2.4/lib/ReportGenerator/ReportGeneratorMerged.dll\" -a=\"/Users/jimmyoh/UnityProject/XR/XRTestApp/Library/PackageCache/com.unity.visualscripting@1.9.0/Runtime/VisualScripting.Flow/Dependencies/NCalc/Unity.VisualScripting.Antlr3.Runtime.dll\" -s=\"/Applications/Unity/Hub/Editor/2022.3.9f1/Unity.app/Contents/Managed/UnityEngine\" -s=\"/Applications/Unity/Hub/Editor/2022.3.9f1/Unity.app/Contents/NetStandard/compat/2.1.0/shims/netfx\" -s=\"/Applications/Unity/Hub/Editor/2022.3.9f1/Unity.app/Contents/NetStandard/compat/2.1.0/shims/netstandard\" -s=\"/Applications/Unity/Hub/Editor/2022.3.9f1/Unity.app/Contents/NetStandard/Extensions/2.0.0\" -s=\"/Applications/Unity/Hub/Editor/2022.3.9f1/Unity.app/Contents/NetStandard/ref/2.1.0\" -s=\"/Users/jimmyoh/UnityProject/XR/XRTestApp/Library/ScriptAssemblies\" -s=\"/Users/jimmyoh/UnityProject/XR/XRTestApp/Library/PackageCache/com.unity.ext.nunit@1.0.6/net35/unity-custom\" -s=\"/Users/jimmyoh/UnityProject/XR/XRTestApp/Library/PackageCache/com.unity.testtools.codecoverage@1.2.4/lib/ReportGenerator\" -s=\"/Users/jimmyoh/UnityProject/XR/XRTestApp/Library/PackageCache/com.unity.visualscripting@1.9.0/Runtime/VisualScripting.Flow/Dependencies/NCalc\" -o=\"Library/BuildPlayerData/Editor\" -rn=\"\" -tn=\"TypeDb-All.json\"",
       "Inputs": [
         "/Applications/Unity/Hub/Editor/2022.3.9f1/Unity.app/Contents/Tools/netcorerun/netcorerun",
         "/Applications/Unity/Hub/Editor/2022.3.9f1/Unity.app/Contents/Tools/BuildPlayerDataGenerator/BuildPlayerDataGenerator.exe",
@@ -34903,7 +34903,7 @@
   ],
   "StatSignatures": [
     {
-      "File": "/Users/jimmyoh/UnityProjrct/XR/XRTestApp/getconf"
+      "File": "/Users/jimmyoh/UnityProject/XR/XRTestApp/getconf"
     },
     {
       "File": "Assets/csc.rsp"
@@ -35097,6 +35097,6 @@
   "SharedResources": [],
   "Scanners": [],
   "Identifier": "Library/Bee/1300b0aEDbg.dag.json",
-  "PayloadsFile": "/Users/jimmyoh/UnityProjrct/XR/XRTestApp/Library/Bee/1300b0aEDbg.dag.payloads",
+  "PayloadsFile": "/Users/jimmyoh/UnityProject/XR/XRTestApp/Library/Bee/1300b0aEDbg.dag.payloads",
   "RelativePathToRoot": "../.."
 }
