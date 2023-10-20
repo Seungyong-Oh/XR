@@ -5,7 +5,7 @@ UnityでXR関連で練習した物を残してます！
 - MetaQuest2(OculusQuest2)でビルドしてみよう
 
 ## XRTestApp
-XR Interaction ToolkitでVRアプリ作成<br>
+### XR Interaction ToolkitでVRアプリ作成<br>
 - Meta　Quest向けプロジェクト設定
 - コントローラー情報の受け取り
 - キャラクターの移動
@@ -13,7 +13,7 @@ XR Interaction ToolkitでVRアプリ作成<br>
 - UI操作
 - XR Device Simulator
 
-## 参考
+### 参考
 - https://github.com/Unity-Technologies/XR-Interaction-Toolkit-Examples/
 - https://docs.unity3d.com/ja/Packages/com.unity.xr.interaction.toolkit@2.0/manual/general-setup.html
 - https://docs.unity3d.com/Packages/com.unity.inputsystem@1.0/manual/Actions.html
